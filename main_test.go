@@ -37,7 +37,7 @@ package main
 // 	}
 
 // 	fmt.Println("out: ", string(out))
-
+//
 // 	want := "Hello from Scout."
 // 	if !strings.Contains(string(out), want) {
 // 		t.Errorf("HTTP Response: body does not include %q", want)
